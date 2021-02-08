@@ -1,0 +1,19 @@
+.imgContainer {
+  position: relative;
+}
+
+.mainTitle {
+  width: 100%;
+  position: absolute;
+  top: 676px;
+  background-color: rgba(0, 0, 0, 0.10);
+  font-size: 3.5em;
+}
+
+.nav-item{
+  border-right: 1px solid rgba(0, 0, 0, 0.253);
+}
+
+.nav-item:last-child{
+  border-right: none;
+}
